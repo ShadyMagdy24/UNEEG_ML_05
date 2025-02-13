@@ -1,0 +1,7 @@
+Python Version: 3.12.7 | packaged by Anaconda, Inc. | (main, Oct  4 2024, 13:17:27) [MSC v.1929 64 bit (AMD64)]
+TensorFlow Version: 2.18.0
+NumPy Version: 1.26.4
+Pandas Version: 2.2.2
+Matplotlib Version: 3.9.2
+Seaborn Version: 0.13.2
+Scikit-Learn Version: 1.5.1
